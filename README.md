@@ -1,2 +1,8 @@
-# ror3-zadaca1
-Ruby on Rails za početnike (Sezona 3) - Domaća zadaća #1
+# Mobile mini shop
+
+Classes are: Product, Phone, Store, and you can filter phones by:
+  - Just the expensive ones
+  - Just the cheap ones
+  - Android os
+  - Bluetooth
+  - In stock
